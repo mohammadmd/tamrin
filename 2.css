@@ -1,0 +1,43 @@
+form {
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+}
+button {
+    width: 100px;
+    height: 30px;
+}
+button[class="1"] {
+    background-color: rgb(71, 71, 255);
+    color: rgb(255, 255, 255);
+}
+button[class="2"] {
+    background-color: rgb(255, 255, 0);
+    color: black;
+}
+button[class="3"] {
+    background-color: rgb(19, 139, 45);
+    color: rgb(255, 255, 255);
+}
+button[class="4"] {
+    background-color: rgb(192, 38, 38);
+    color: rgb(255, 255, 255);
+}
+
+button[class="5"] {
+    border-color: rgb(71, 71, 255) ;
+    color: rgb(71, 71, 255);
+}
+
+button[class="6"] {
+    border-color: rgb(103, 103, 119) ;
+    color: rgb(0, 0, 0);
+}
+button[class="7"] {
+    border-color: rgb(50, 161, 100) ;
+    color: rgb(50, 161, 100);
+}
+button[class="8"] {
+    background-color: rgb(45, 45, 58) ;
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+}
